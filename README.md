@@ -42,7 +42,7 @@
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
 ---
-
+![Monitoring_001](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_001.png)
 ### Задание 2 
 
 Установите Zabbix Agent на два хоста.
