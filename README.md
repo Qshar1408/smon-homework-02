@@ -44,6 +44,7 @@
 ---
 ![Monitoring_001](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_001.png)
 ![Monitoring_002](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_002.png)
+![Monitoring_003](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_003.png)
 
 ### Задание 2 
 
@@ -63,8 +64,12 @@
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 ---
-## Задание 3 со звёздочкой*
-Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
+![Monitoring_004](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_004.png)
+![Monitoring_005](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_005.png)
+![Monitoring_006](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_006.png)
+![Monitoring_007](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_007.png)
+![Monitoring_008](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_008.png)
+![Monitoring_009](https://github.com/Qshar1408/smon-homework-02/blob/main/img/smon02_009.png)
 
 #### Требования к результаты 
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
